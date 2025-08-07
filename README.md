@@ -10,3 +10,5 @@ O objetivo é apresentar de forma clara e atrativa os conteúdos relacionados a 
 - **Figma**
 
 ## 📸 Fotos do Projeto
+![Dark Mode](./assets/Darkmode.png)
+![Light Mode](./assets/Lightmode.png)
